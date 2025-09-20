@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @judeMbugua  
-- 👀 I’m interested in Software and Website development  
+- 👀 I’m a Software and Website developer  
 - 🌱 I’m currently learning advanced Node.js and improving my skills in Python, Django, and Java  
 - 💻 Skilled in HTML, CSS, JavaScript, React, PHP, and MySQL  
 - 📫 How to reach me: Email @ judewanyagi@gmail.com
